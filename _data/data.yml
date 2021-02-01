@@ -46,7 +46,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Statement of Purpose
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -78,7 +78,6 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    title: Experience
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
