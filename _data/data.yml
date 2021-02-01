@@ -78,6 +78,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    title: Experience
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
